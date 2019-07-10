@@ -1,10 +1,12 @@
 <b>Alpha 4.01</b>
-<p>Launcher:</p>
+Launcher:
+--------------------
 - Verified Launcher is updating game.
 - Removed icons from text in launcher.
 - Text is now remote, and can be updated every patch.
 
-<p>Game Updates:</p>
+Game Updates:
+--------------------
 -Updated the server selection UI
 -Updated the skybox in the login scene to "dark dusk"
 
@@ -12,9 +14,10 @@
 
 <b>Alpha 4.0</b> - test patch
 
-<p/Game updates: 
+Game updates: 
 
-- Updated patcher</p>
+- Updated patcher
+--------------------
 - Added cloth (Capes)
 - Revamped faction gears for diversity
 - Added more hats
@@ -23,6 +26,7 @@
 - Weapons update coming soon
 
 Platform updates:
+--------------------
 - Base gameplay rules changed for custom currencies expansion
 - ammo system introduced
 - add equipment socket
@@ -31,6 +35,7 @@ Platform updates:
 - equipment can increase skill levels
 
 Bug fixes:
+--------------------
 + equipping unappropriate gears
 + Database fixes
 + Assigning skills bug fixes
