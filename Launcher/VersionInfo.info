@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <VersionInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <BaseDownloadURL />
+  <BaseDownloadURL>https://gmkupa.github.io/Launcher/</BaseDownloadURL>
   <MaintenanceCheckURL />
   <Version>0.2</Version>
   <Patches />
