@@ -1,0 +1,38 @@
+
+<b>Alpha 4.0</b> - test patch
+
+<p/Game updates: 
+
+- Updated patcher</p>
+- Added cloth (Capes)
+- Revamped faction gears for diversity
+- Added more hats
+- Added gloves physics - possible item update coming
+- New environment/terrain/animations
+- Weapons update coming soon
+
+Platform updates:
+- Base gameplay rules changed for custom currencies expansion
+- ammo system introduced
+- add equipment socket
+- add GM commands to MMO mode
+- harvestable materials can now be dropped on the ground while harvesting
+- equipment can increase skill levels
+
+Bug fixes:
++ equipping unappropriate gears
++ Database fixes
++ Assigning skills bug fixes
++ item storage bug fixes
++ socket bug fixes
++ update guild name bug
++ fix increase stats/attributes/resistances/skills not showing up in UI character item
++ Fix hotkey reset when warp
+
+
+
+
+Please note: 
+This Launcher is not built to update itself currently. further testing is required. We will push the new launcher once it's configured properly. For now, this launcher is updating the game properly, and that's the most important part.We can update the patch notes remotely anyways. 
+
+Thank you for your patience.
