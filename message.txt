@@ -1,3 +1,14 @@
+<b>Alpha 4.01</b>
+<p>Launcher:</p>
+- Verified Launcher is updating game.
+- Removed icons from text in launcher.
+- Text is now remote, and can be updated every patch.
+
+<p>Game Updates:</p>
+-Updated the server selection UI
+-Updated the skybox in the login scene to "dark dusk"
+
+
 
 <b>Alpha 4.0</b> - test patch
 
