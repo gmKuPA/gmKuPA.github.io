@@ -1,5 +1,5 @@
 
-<b>Alpha 4.0</b> 
+<b>Alpha 4.0</b> - test patch
 
 <sprite name="kottHead">Game updates: 
 
