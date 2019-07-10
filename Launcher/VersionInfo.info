@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <VersionInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <BaseDownloadURL>https://gmkupa.github.io/Launcher/</BaseDownloadURL>
+  <BaseDownloadURL />
   <MaintenanceCheckURL />
-  <Version>0.1</Version>
+  <Version>0.2</Version>
   <Patches />
-  <InstallerPatch CompressionFormat="LZMA" PatchSize="21074621" PatchMd5Hash="2ff3a3065017b416cc8e9ede43910137" DownloadURL="" />
+  <InstallerPatch CompressionFormat="LZMA" PatchSize="21053538" PatchMd5Hash="7b55df63aa1f1f340299da0b3b092302" DownloadURL="" />
   <IgnoredPaths>
     <string>*output_log.txt</string>
     <string>Main\</string>
@@ -17,16 +17,16 @@
     <VersionItem Path="WinPixEventRuntime.dll" FileSize="42704" Md5Hash="ae4d6c34422b85bfa2e99a456fc4c733" CompressedFileSize="21661" CompressedMd5Hash="4b480846e216d7f5a961a1aa73b3320e" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\app.info" FileSize="24" Md5Hash="d206044c01df1cd5b5b5ae320078f00f" CompressedFileSize="43" CompressedMd5Hash="41e9fae5f706a49ee5c27f759bc0bdc5" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\boot.config" FileSize="123" Md5Hash="3302d56ce69ae79b5745181080b88597" CompressedFileSize="111" CompressedMd5Hash="2bb48bebf84e2b67efb1d949fd7cfdc3" DownloadURL="" />
-    <VersionItem Path="Launcher6_Data\globalgamemanagers" FileSize="38584" Md5Hash="4a4f17193208e88d72cc05505f757052" CompressedFileSize="13551" CompressedMd5Hash="0aac2b5ae273449e48e75dd099e0b553" DownloadURL="" />
+    <VersionItem Path="Launcher6_Data\globalgamemanagers" FileSize="38584" Md5Hash="a7de0201eaedf0c34f73c12e26bf0bbd" CompressedFileSize="13555" CompressedMd5Hash="1b876380de9944a9aac31f3dd14de9cb" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\globalgamemanagers.assets" FileSize="53284" Md5Hash="24117b3ba1d61e3efc4f06eb38062e6c" CompressedFileSize="6543" CompressedMd5Hash="c38dddfb5013b03e3c642143bce55cca" DownloadURL="" />
-    <VersionItem Path="Launcher6_Data\level0" FileSize="233248" Md5Hash="4440b3965e215da90eb5d069e690e36a" CompressedFileSize="17081" CompressedMd5Hash="d4336a58d57a9c7fcbd4c9e41ff8a4c4" DownloadURL="" />
+    <VersionItem Path="Launcher6_Data\level0" FileSize="233240" Md5Hash="4465238ef284cabcd17999b549956406" CompressedFileSize="17086" CompressedMd5Hash="2ac0f1cc86f7b6e2b096c6b86ab76e11" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\level0.resS" FileSize="131232" Md5Hash="4e6029a1263f1e2c0cfbef007e7363f0" CompressedFileSize="52203" CompressedMd5Hash="04d1d4efbe81d463f7b2e51c41a9548b" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\resources.assets" FileSize="141928" Md5Hash="f973d06f97afc0a885b6f7de59af4409" CompressedFileSize="27030" CompressedMd5Hash="5b73942281757f65747afe07a227e6fa" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\resources.assets.resS" FileSize="1579844" Md5Hash="bd083e50e2f95a447843b1e8af778c02" CompressedFileSize="50140" CompressedMd5Hash="d3f1c76eb624acbdb862149e5daa72dd" DownloadURL="" />
-    <VersionItem Path="Launcher6_Data\sharedassets0.assets" FileSize="16167492" Md5Hash="3129bbab951862f16560f78d9a1464d6" CompressedFileSize="3897047" CompressedMd5Hash="a9218034dd19defeeaa2bf9cb94b41b4" DownloadURL="" />
+    <VersionItem Path="Launcher6_Data\sharedassets0.assets" FileSize="16167492" Md5Hash="20d029c29e5bb98cc33ffb913e049a1b" CompressedFileSize="3877200" CompressedMd5Hash="22bb675e55b8e38b06370ccb6add1a7c" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\sharedassets0.assets.resS" FileSize="6427784" Md5Hash="730bcc9124e756e37b595575fc1fcf5f" CompressedFileSize="1965810" CompressedMd5Hash="234befc03ccac8e9c06869fc89e7d245" DownloadURL="" />
-    <VersionItem Path="Launcher6_Data\Managed\Assembly-CSharp-firstpass.dll" FileSize="34816" Md5Hash="8c62fbf13403742396edd69744e92cfa" CompressedFileSize="12486" CompressedMd5Hash="5f67670b2048dd6b7d8758c3522303ff" DownloadURL="" />
-    <VersionItem Path="Launcher6_Data\Managed\Assembly-CSharp.dll" FileSize="6144" Md5Hash="aa4e4d8dc47741b01f681d7669d359c1" CompressedFileSize="2312" CompressedMd5Hash="09b7e48beb839f682c9455f30166cc79" DownloadURL="" />
+    <VersionItem Path="Launcher6_Data\Managed\Assembly-CSharp-firstpass.dll" FileSize="34816" Md5Hash="a32628165bff3bce97df51b91b837de1" CompressedFileSize="12487" CompressedMd5Hash="bdb0bdc75825bfd6476e0c9d38779746" DownloadURL="" />
+    <VersionItem Path="Launcher6_Data\Managed\Assembly-CSharp.dll" FileSize="6144" Md5Hash="5d427df9be8cb66b2a9bb2ae578d700f" CompressedFileSize="2309" CompressedMd5Hash="07bff25554390fb10b344c6b970937b1" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\Managed\Mono.Security.dll" FileSize="310272" Md5Hash="e6409f8d1d0eb375f4482c04816e2d43" CompressedFileSize="103777" CompressedMd5Hash="310956ebe6cc6731093b8465e80e6ebc" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\Managed\mscorlib.dll" FileSize="3769344" Md5Hash="398862a182b8ec83b8b5011b910b0a33" CompressedFileSize="1030267" CompressedMd5Hash="a12cdb1efc96a4022a61c6318081300a" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\Managed\netstandard.dll" FileSize="84992" Md5Hash="cfce0b792da2b475a51f4f5122f0cb9f" CompressedFileSize="20201" CompressedMd5Hash="453ba8ff2391620f80b1ccd8deb86574" DownloadURL="" />
@@ -53,10 +53,10 @@
     <VersionItem Path="Launcher6_Data\Managed\System.Xml.dll" FileSize="2414080" Md5Hash="8253c06f287ec4048259763973520930" CompressedFileSize="610096" CompressedMd5Hash="c58db5fe523a32d850ebd2ef27c52818" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\Managed\System.Xml.Linq.dll" FileSize="119296" Md5Hash="204aca0be0d9369f8c2076032f190dc9" CompressedFileSize="39375" CompressedMd5Hash="521554e9822c0f116ca1007e83464c26" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\Managed\System.Xml.XPath.XDocument.dll" FileSize="5120" Md5Hash="52f86194944ab29efceda2806f0abb10" CompressedFileSize="1910" CompressedMd5Hash="6b75994952c23ad7ff3730539e36029a" DownloadURL="" />
-    <VersionItem Path="Launcher6_Data\Managed\Unity.Analytics.DataPrivacy.dll" FileSize="7680" Md5Hash="0471f6efee35c1a0f9eedc89c1d3fb1b" CompressedFileSize="3070" CompressedMd5Hash="8a6b573186314d856aad9482266d4d89" DownloadURL="" />
+    <VersionItem Path="Launcher6_Data\Managed\Unity.Analytics.DataPrivacy.dll" FileSize="7680" Md5Hash="1e3c97a1aa2af5a307ffbbbbd937bfd1" CompressedFileSize="3075" CompressedMd5Hash="409d36f0eaaba1923c66c400b2d5227b" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\Managed\Unity.Analytics.StandardEvents.dll" FileSize="32256" Md5Hash="3f9f0188b97c805650bb2c766f56f417" CompressedFileSize="9190" CompressedMd5Hash="e57bd384363a028eaa320f552b765725" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\Managed\Unity.Analytics.Tracker.dll" FileSize="19456" Md5Hash="d0b02f872645655914974815c9a28037" CompressedFileSize="7320" CompressedMd5Hash="b1422de32e1a3f4ae09b9579dabd9b1a" DownloadURL="" />
-    <VersionItem Path="Launcher6_Data\Managed\Unity.TextMeshPro.dll" FileSize="295424" Md5Hash="9dcc17344934b79745c1ce6146431707" CompressedFileSize="81646" CompressedMd5Hash="204b9db6a028a0eb1e5ef340a1e0609e" DownloadURL="" />
+    <VersionItem Path="Launcher6_Data\Managed\Unity.TextMeshPro.dll" FileSize="295424" Md5Hash="cd75e92cfb52914fabb95744d26b5509" CompressedFileSize="81611" CompressedMd5Hash="3e3f5d0e99d1d28f8c48ce18e72003a0" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\Managed\UnityEngine.AccessibilityModule.dll" FileSize="10752" Md5Hash="8ea261e874c3920a72dcc28e89eacb6c" CompressedFileSize="3316" CompressedMd5Hash="78ff592e7922baff104a9aec7e0d2ea6" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\Managed\UnityEngine.AccessibilityModule.xml" FileSize="1231" Md5Hash="a35a08dd53944ed62dd0924e898b6e17" CompressedFileSize="569" CompressedMd5Hash="ec48a9c9c1d1d2cdedb6f9e6babb04e3" DownloadURL="" />
     <VersionItem Path="Launcher6_Data\Managed\UnityEngine.AIModule.dll" FileSize="42496" Md5Hash="421b77e5c77756968e0559ea277f898a" CompressedFileSize="13524" CompressedMd5Hash="4c02d8923b773d43672f3ab6d11544d2" DownloadURL="" />
