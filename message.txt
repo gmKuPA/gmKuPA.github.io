@@ -11,7 +11,7 @@
 - New environment/terrain/animations
 - Weapons update coming soon
 
-<sprite name="kottHead" color=#FFA800>Platform updates:
+Platform updates:
 - Base gameplay rules changed for custom currencies expansion
 - ammo system introduced
 - add equipment socket
@@ -19,7 +19,7 @@
 - harvestable materials can now be dropped on the ground while harvesting
 - equipment can increase skill levels
 
-<font face = 'Impact' size = '22'  gradient = '0, 0, white, blue'>IMPACT FONT</font>
+IMPACT FONT
 + equipping unappropriate gears
 + Database fixes
 + Assigning skills bug fixes
@@ -29,8 +29,10 @@
 + fix increase stats/attributes/resistances/skills not showing up in UI character item
 + Fix hotkey reset when warp
 
-<sprite name="kottHead" color=#FFFF00>
+
+
+
 Please note: 
-This Launcher is not built to update itself currently. further testing is required. We will push the new launcher once it's configured properly. For now, this launcher is updating the game properly, and that's the most important part.
+This Launcher is not built to update itself currently. further testing is required. We will push the new launcher once it's configured properly. For now, this launcher is updating the game properly, and that's the most important part.We can update the patch notes remotely anyways. 
 
 Thank you for your patience.
