@@ -1,7 +1,7 @@
 
 <b>Alpha 4.0</b> - test patch
 
-<sprite name="kottHead">Game updates: 
+<font face = 'Whimsy' size = '22'  gradient = '0, 0, white, blue'>IMPACT FONT</font>Game updates: 
 
 - Updated patcher
 - Added cloth (Capes)
@@ -19,7 +19,7 @@
 - harvestable materials can now be dropped on the ground while harvesting
 - equipment can increase skill levels
 
-<sprite name="kottHead" color=#FF0000>Bug fixes -
+<font face = 'Impact' size = '22'  gradient = '0, 0, white, blue'>IMPACT FONT</font>
 + equipping unappropriate gears
 + Database fixes
 + Assigning skills bug fixes
