@@ -1,23 +1,38 @@
-<b>Alpha 4.01</b>
-Launcher:
---------------------
+<b>Alpha 4.0 </b>
+<b>------------------------</b>
+GMLand implemented with barrier to oblivion and safe zone
+NPC Hefke has been given a phase 1 script advising the players of the drop tables in GMLand.
+7 hats, all with unique skills
+4 'weapons', each having unique characteristics and skills assigned.
+tab target login and register interfaces
+<b>------------------------</b>
+The following items have been given a +1 to the listed and respective skill levels.
+-Sword: Bash
+(dual weild)
+-Shield: Endure
+(Left hand only)
+-Bow: DexUp
+(2handed projectile)
+-Staff: Fire bolt
+(1handed projectile)
+
+-bat mask: Enrage
+-crown: IncreaseHP
+-leprechaun: Bash
+-kott mask: MagicShield
+-party hat: Heal(Party)
+-santa hat: Heal(Self)
+-wizard hat: Fire bolt
+
+<b>Launcher:
+--------------------</b>
 - Verified Launcher is updating game.
 - Removed icons from text in launcher.
 - Text is now remote, and can be updated every patch.
 
-Game Updates:
---------------------
--Updated the server selection UI
--Updated the skybox in the login scene to "dark dusk"
-
-
-
-<b>Alpha 4.0</b> - test patch
-
-Game updates: 
-
+<b>Game updates:
+--------------------</b>
 - Updated patcher
---------------------
 - Added cloth (Capes)
 - Revamped faction gears for diversity
 - Added more hats
@@ -25,8 +40,8 @@ Game updates:
 - New environment/terrain/animations
 - Weapons update coming soon
 
-Platform updates:
---------------------
+<b>Platform updates:
+--------------------</b>
 - Base gameplay rules changed for custom currencies expansion
 - ammo system introduced
 - add equipment socket
@@ -34,9 +49,9 @@ Platform updates:
 - harvestable materials can now be dropped on the ground while harvesting
 - equipment can increase skill levels
 
-Bug fixes:
---------------------
-+ equipping unappropriate gears
+<b>Bug fixes
+--------------------</b>
++ equipping inappropriate gears
 + Database fixes
 + Assigning skills bug fixes
 + item storage bug fixes
@@ -44,11 +59,3 @@ Bug fixes:
 + update guild name bug
 + fix increase stats/attributes/resistances/skills not showing up in UI character item
 + Fix hotkey reset when warp
-
-
-
-
-Please note: 
-This Launcher is not built to update itself currently. further testing is required. We will push the new launcher once it's configured properly. For now, this launcher is updating the game properly, and that's the most important part.We can update the patch notes remotely anyways. 
-
-Thank you for your patience.
