@@ -2,9 +2,9 @@
 <VersionInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <BaseDownloadURL>https://gmkupa.github.io/MainApp/</BaseDownloadURL>
   <MaintenanceCheckURL />
-  <Version>4.1</Version>
+  <Version>4.11</Version>
   <Patches />
-  <InstallerPatch CompressionFormat="LZMA" PatchSize="28123469" PatchMd5Hash="64bc3faf3be295c095492fcd77dd8bae" DownloadURL="" />
+  <InstallerPatch CompressionFormat="LZMA" PatchSize="28123993" PatchMd5Hash="99656652f3fc46d8fe2a68ccfa79b05b" DownloadURL="" />
   <IgnoredPaths>
     <string>*output_log.txt</string>
   </IgnoredPaths>
