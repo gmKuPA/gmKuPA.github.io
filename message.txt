@@ -7,6 +7,7 @@ I've added a "Turf Monsta" monster character to the map. This monsta drops an ex
 Client updates:
 - Game Icon update
 - Unity Product updates
+- KotT Splash screen added
 
 Game updates:
 - Weapons Icon updates
