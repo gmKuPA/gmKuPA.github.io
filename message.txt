@@ -1,3 +1,36 @@
+<b>Alpha 4.01 Changelog</b>
+<b>------------------------</b>
+GM Land was designed to entertain multiple level 1 players in a PvP scenario. Currently we are a bit short on players, but those who do play should be able to have some fun too!
+
+I've added a "Turf Monsta" monster character to the map. This monsta drops an extremely epic weapon! If you find yourself vsing the godbow and want to try it just PM IKuPAI in discord and I'll get you one for testing!
+<b>------------------------</b>
+Client updates:
+- Game Icon update
+- Unity Product updates
+
+Game updates:
+Weapons Icon updates
+character collider radius increased from 0.06 to 0.1
+improved treasure chest colliders
+
+Weapon updates:
+Bow distance increased from 7 to 30 (staff is 10)
+Sword nerfed from 3-6 to 1-3 (can dual)
+Bow 2-5
+staff 1-6
+shield +2 evasion
+fixed sword visual placement in right hand
+all 11 core items have been given a 10% drop rate from their respective chests.
+
+Event Launch:
+The Turfking has appeared in GMLand
+Turfking drops a god bow at 1% chance
+God bow does 1-1 damage with 30x attack speed!
+
+
+
+
+---
 <b>Alpha 4.0 </b>
 <b>------------------------</b>
 GMLand implemented with barrier to oblivion and safe zone
