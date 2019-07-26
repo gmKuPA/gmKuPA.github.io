@@ -2,10 +2,11 @@
 <VersionInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <BaseDownloadURL>https://gmkupa.github.io/MainApp/</BaseDownloadURL>
   <MaintenanceCheckURL />
-  <Version>4.11</Version>
+  <Version>4.1</Version>
   <Patches />
-  <InstallerPatch CompressionFormat="LZMA" PatchSize="28123993" PatchMd5Hash="99656652f3fc46d8fe2a68ccfa79b05b" DownloadURL="" />
+  <InstallerPatch CompressionFormat="LZMA" PatchSize="28141149" PatchMd5Hash="9c168beb657e224dde95e22acadec181" DownloadURL="" />
   <IgnoredPaths>
+    <string>*spt_logs.txt</string>
     <string>*output_log.txt</string>
   </IgnoredPaths>
   <CompressionFormat>LZMA</CompressionFormat>
@@ -249,5 +250,5 @@
     <VersionItem Path="MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser" FileSize="1605" Md5Hash="0d831c1264b5b32a39fa347de368fe48" CompressedFileSize="609" CompressedMd5Hash="99991ab0498ce04c8b04f5c0354b65e2" DownloadURL="" />
     <VersionItem Path="MonoBleedingEdge\etc\mono\mconfig\config.xml" FileSize="25817" Md5Hash="f34b330f20dce1bdcce9058fca287099" CompressedFileSize="3121" CompressedMd5Hash="2d071741092969aefc46eae7e163b8ed" DownloadURL="" />
   </Files>
-  <Name>KotT</Name>
+  <Name>NewProject</Name>
 </VersionInfo>
